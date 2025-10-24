@@ -3,6 +3,6 @@
 1. Eat
 2. Milk
 
-**SYnteax:**
--[ ] Code
--[x] Review
+** SYnteax: **
+- [x] Abdulla Al Noman
+- [ ] hi
