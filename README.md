@@ -9,3 +9,8 @@
 - [ ] hi
 ```
 *It is Written in Italics*
+
+🫀 
+
+|Fruits | Emoji |
+| ---------- | -------- | 
